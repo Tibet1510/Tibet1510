@@ -1,6 +1,6 @@
 ### Hi there I'm Tibet👋
 
 
-- 🔭 I’m stuff
-- 🌱 I’m currently learning C#
+- 🔭 In the future I would like to pursue a career in Software Engineering.
+- 🌱 I’m currently learning C#,SQL
 - 😄 Pronouns: He/Him
